@@ -34,16 +34,16 @@ A Social Awareness-Based Graph Neural Network (SAB-GNN) architecture predicting 
 * Python 3.8.5
 * PyTorch 1.9.0 
 
-## Data collection and Preprocessing
+## Data Collection and Preprocessing
 
 <p align="center">
-  <img src="https://github.com/JiaweiXue/MultiwaveCovidPrediction/master/figures/figure_flow.png" width="666">
+  <img src="https://github.com/JiaweiXue/MultiwaveCovidPrediction/master/figures/figure_flow.png" width="100">
 </p>
 
 ## SAB-GNN Architecture
 
 <p align="center">
-  <img src="https://github.com/JiaweiXue/MultiwaveCovidPrediction/blob/master/figures/figure_model.png" width="666">
+  <img src="https://github.com/JiaweiXue/MultiwaveCovidPrediction/blob/master/figures/figure_model.png" width="100">
 </p>
 
 ## License
