@@ -12,16 +12,16 @@ A Social Awareness-Based Graph Neural Network (SAB-GNN) architecture predicting 
 * Problem Setting: the urban study area is divided into N different urban districts.
 * Prediction Features: 
   - the daily population flow between N urban districts 
-  - the number of Covid-19 symptom related web search records for residents living in each district
+  - the number of Covid-19 symptom-related web search records for residents living in each district
   - historical daily new infection cases for each district. 
 * Prediction Labels: 
-  - the daily new infection cases for each district for next 7/14/21 days.
+  - the daily new infection cases for each district for the next 7/14/21 days.
 * Model Architecture: 
   - spatial module: graph neural network 
-  - social awareness recovery module
+  - the social awareness recovery module
   - temporal module: LSTM. 
 * This GitHub repository presents codes of 
-  - extracting and preprocess the raw mobility and web search data
+  - extracting and preprocessing the raw mobility and web search data
   - training and testing the SAB-GNN model.
 
 ## Publication
@@ -37,13 +37,13 @@ A Social Awareness-Based Graph Neural Network (SAB-GNN) architecture predicting 
 ## Data Collection and Preprocessing
 
 <p align="center">
-  <img src="https://github.com/JiaweiXue/MultiwaveCovidPrediction/blob/main/figures/figure_flow.png" width="400">
+  <img src="https://github.com/JiaweiXue/MultiwaveCovidPrediction/blob/main/figures/figure_flow.png" width="350">
 </p>
 
 ## SAB-GNN Architecture
 
 <p align="center">
-  <img src="https://github.com/JiaweiXue/MultiwaveCovidPrediction/blob/main/figures/figure_model.png" width="600">
+  <img src="https://github.com/JiaweiXue/MultiwaveCovidPrediction/blob/main/figures/figure_model.png" width="550">
 </p>
 
 ## License
