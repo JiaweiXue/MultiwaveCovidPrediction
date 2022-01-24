@@ -37,7 +37,7 @@ A Social Awareness-Based Graph Neural Network (SAB-GNN) architecture predicting 
 ## Data collection and Preprocessing
 
 <p align="center">
-  <img src="https://github.com/JiaweiXue/MultiwaveCovidPrediction/blob/master/Figures/Figure_flow.png" width="666">
+  <img src="https://github.com/JiaweiXue/MultiwaveCovidPrediction/master/Figures/Figure_flow.png" width="666">
 </p>
 
 ## SAB-GNN Architecture
