@@ -26,8 +26,8 @@ A Social Awareness-Based Graph Neural Network (SAB-GNN) architecture predicting 
 
 ## Publication
 
-**Multiwave COVID-19 Prediction via Social Awareness-Based Graph Neural Networks using Mobility and Web Search Data
-**Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma, Satish V. Ukkusuri, 2022. 
+**Multiwave COVID-19 Prediction via Social Awareness-Based Graph Neural Networks using Mobility and Web Search Data**
+Jiawei Xue, Jianzhu Ma, Kota Tsubouchi, Jianzhu Ma*, Satish V. Ukkusuri\*, 2022. 
 
 ## Requirements
 * Ubuntu 16.04
