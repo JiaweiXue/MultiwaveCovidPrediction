@@ -1,4 +1,4 @@
-## Multiwave COVID-19 Prediction via Social Awareness-Based Graph Neural Networks using Mobility and Web Search Data
+## Multiwave COVID-19 Prediction from Social Awareness using Web Search and Mobility Data
 
 A Social Awareness-Based Graph Neural Network (SAB-GNN) architecture predicting daily Covid-19 infection cases based on inner-city mobility and web search data from mobile phone 
 
@@ -27,7 +27,7 @@ A Social Awareness-Based Graph Neural Network (SAB-GNN) architecture predicting 
 ## Publication
 
 **Multiwave COVID-19 Prediction via Social Awareness-Based Graph Neural Networks using Mobility and Web Search Data**
-Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma\*, Satish V. Ukkusuri\*, The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD-22). 
+Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma\*, Satish V. Ukkusuri\*, Accepted by the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD-22). 
 
 ## Requirements
 * Ubuntu 16.04
