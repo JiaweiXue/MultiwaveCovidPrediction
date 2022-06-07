@@ -20,11 +20,11 @@ Codes 1 and 2 are under "/SAB-GNN/" in this Github repository.
 
 To see implementation results, please refer to
 
-"MultiwaveCovidPrediction/SAB-GNN/sab_gnn/implementation_results_html_files/"
+  - "MultiwaveCovidPrediction/SAB-GNN/sab_gnn/implementation_results_html_files/"
 
 or
 
-"MultiwaveCovidPrediction/SAB-GNN/sab_gnn_wsa/implementation_results_html_files/".
+  - "MultiwaveCovidPrediction/SAB-GNN/sab_gnn_wsa/implementation_results_html_files/".
 
 ## Background
 * Recurring outbreaks of COVID-19 call for a predictor of pandemic waves with early availability.
