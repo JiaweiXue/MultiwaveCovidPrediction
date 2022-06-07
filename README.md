@@ -7,17 +7,23 @@ To replicate the implmentation of SAB-GNN, we need
   - feature 1: mobility data
   - feature 2: web search data
   - feature 3: historical infection data  
+  
 and
   - code 1: training and testing code
   - code 2: sab_gnn model code
 
 Features 1 and 2 can be found as "YJ Covid-19 Prediction Data" from https://randd.yahoo.co.jp/en/softwaredata.
+
 Feature 3 is under "/data-collection/" in this Github repository.
+
 Codes 1 and 2 are under "/SAB-GNN/" in this Github repository.
 
 To see implementation results, please refer to
+
 "MultiwaveCovidPrediction/SAB-GNN/sab_gnn/implementation_results_html_files/"
+
 or
+
 "MultiwaveCovidPrediction/SAB-GNN/sab_gnn_wsa/implementation_results_html_files/".
 
 ## Background
