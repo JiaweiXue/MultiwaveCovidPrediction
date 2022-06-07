@@ -6,7 +6,7 @@ A Social Awareness-Based Graph Neural Network (SAB-GNN) architecture predicting 
 To replicate the implmentation of SAB-GNN, we need 
   - feature 1: mobility data
   - feature 2: web search data
-  - feature 3: historical infection data
+  - feature 3: historical infection data  
 and
   - code 1: training and testing code
   - code 2: sab_gnn model code
