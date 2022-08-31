@@ -50,7 +50,7 @@ or
 ## Publication
 
 **Multiwave COVID-19 Prediction from Social Awareness using Web Search and Mobility Data**
-Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma\*, Satish V. Ukkusuri\*, Accepted by the 28TH ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD-22), Washington DC Convention Center, August 14-18, 2022. 
+Jiawei Xue, Takahiro Yabe, Kota Tsubouchi, Jianzhu Ma\*, Satish V. Ukkusuri\*, the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD-22), Washington DC Convention Center, August 14-18, 2022. 
 
 ## Requirements
 * Ubuntu 16.04
