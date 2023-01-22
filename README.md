@@ -7,24 +7,10 @@ To replicate the implmentation of SAB-GNN, we need
   - feature 1: mobility data
   - feature 2: web search data
   - feature 3: historical infection data  
-  
-and
-  - code 1: training and testing code
-  - code 2: sab_gnn model code
 
 Features 1 and 2 can be found as "YJ Covid-19 Prediction Data" from https://randd.yahoo.co.jp/en/softwaredata.
 
-Feature 3 is under "/data-collection/" in this Github repository.
-
-Codes 1 and 2 are under "/SAB-GNN/" in this Github repository.
-
-To see implementation results, please refer to
-
-  - "MultiwaveCovidPrediction/SAB-GNN/sab_gnn/implementation_results_html_files/"
-
-or
-
-  - "MultiwaveCovidPrediction/SAB-GNN/sab_gnn_wsa/implementation_results_html_files/".
+Feature 3 is under "data/".
 
 ## Background
 * Recurring outbreaks of COVID-19 call for a predictor of pandemic waves with early availability.
@@ -32,14 +18,14 @@ or
 * We propose a SAB-GNN that considers the decay of symptom-related web search frequency to predict multiple waves.
 
 ## Introduction
-* Problem Setting: the urban study area is divided into N different urban districts.
-* Prediction Features: 
+* Problem setting: the urban study area is divided into N different urban districts.
+* Prediction features: 
   - feature 1: the daily population flow between N urban districts 
   - feature 2: the number of Covid-19 symptom-related web search records for residents living in each district
   - feature 3: historical daily new infection cases for each district. 
-* Prediction Labels: 
-  - the daily new infection cases for each district for the next 7/14/21 days.
-* Model Architecture: 
+* Prediction labels: 
+  - the daily new infection cases in each district for the next 7/14/21 days.
+* Model architecture: 
   - spatial module: graph neural network 
   - the social awareness recovery module
   - temporal module: LSTM. 
