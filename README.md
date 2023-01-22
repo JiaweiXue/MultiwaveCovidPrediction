@@ -4,13 +4,13 @@ A Social Awareness-Based Graph Neural Network (SAB-GNN) architecture predicting 
 
 ## Data Description 
 To replicate the implmentation of SAB-GNN, we need 
-  - feature 1: mobility data
-  - feature 2: web search data
-  - feature 3: historical infection data  
+  - data 1: mobility data
+  - data 2: web search data
+  - data 3: historical infection data  
 
-Features 1 and 2 can be found as "YJ Covid-19 Prediction Data" from https://randd.yahoo.co.jp/en/softwaredata.
+Data 1 and 2 can be found as "YJ Covid-19 Prediction Data" from https://randd.yahoo.co.jp/en/softwaredata.
 
-Feature 3 is under "data/".
+Data 3 is under "data/".
 
 ## Background
 * Recurring outbreaks of COVID-19 call for a predictor of pandemic waves with early availability.
