@@ -32,8 +32,10 @@ from torch.autograd import Variable
 import matplotlib.pyplot as plt
 from matplotlib import pyplot as plt
 import torch.nn.functional as F
-from spectral_T3_GCN_memory_light import SpecGCN
-from spectral_T3_GCN_memory_light import SpecGCN_LSTM
+
+from sab_gnn_wsa import SpecGCN
+from sab_gnn_wsa import SpecGCN_LSTM
+
 #torch.set_printoptions(precision=8)
 #hyperparameter for the setting
 X_day, Y_day = 21,7

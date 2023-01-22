@@ -31,8 +31,9 @@ from torch.autograd import Variable
 import matplotlib.pyplot as plt
 from matplotlib import pyplot as plt
 import torch.nn.functional as F
-from Memory_spectral_T3_GCN_memory_light_1_layer import SpecGCN
-from Memory_spectral_T3_GCN_memory_light_1_layer import SpecGCN_LSTM
+
+from sab_gnn import SpecGCN
+from sab_gnn import SpecGCN_LSTM
 #hyperparameter for the setting
 X_day, Y_day = 21,7
 #START_DATE, END_DATE = '20200414','20210207'
